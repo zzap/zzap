@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+My name is Milana Cap. I am a WordPress engineer at XWP and a WordPress Documentation Team rep. I also do a lot of public speaking and live coding with WP-CLI. 
+
+If you would like to see me in your city/conference, feel free to email me at [speaking@developerka.org](mailto:speaking@developerka.org).
+
+You can also buy me a coffee so I can keep making new talks and workshops.
+
+![donate](https://github.com/zzap/zzap/assets/1508963/f16a3667-27bd-4c11-9a50-b4a9a965d4d5)
+
+Thank you so much for dropping by 🍪
+
 <!--
 **zzap/zzap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

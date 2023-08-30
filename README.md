@@ -4,7 +4,7 @@ My name is Milana Cap. I am a WordPress engineer at XWP and a WordPress Document
 
 If you would like to see me in your city/conference, feel free to email me at [speaking@developerka.org](mailto:speaking@developerka.org).
 
-You can also buy me a coffee so I can keep making new talks and workshops.
+You can also buy me a coffee so I can keep making new talks and workshops. Donate by scanning the QR code below or going to [this link](https://donate.stripe.com/9AQ8wC7Fd6Iza5i4gg).
 
 ![donate](https://github.com/zzap/zzap/assets/1508963/f16a3667-27bd-4c11-9a50-b4a9a965d4d5)
 

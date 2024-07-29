@@ -6,9 +6,6 @@ If you would like to see me in your city/conference, feel free to email me at [s
 
 You can also buy me a coffee so I can keep making new talks and workshops. Donate by scanning the QR code below or going to [this link](https://donate.stripe.com/9AQ8wC7Fd6Iza5i4gg).
 
-![donate](https://github.com/zzap/zzap/assets/1508963/ce1ff623-87d1-49a3-937e-bcd36fe8a70e)
-
-
 Thank you so much for dropping by 🍪
 
 <!--
